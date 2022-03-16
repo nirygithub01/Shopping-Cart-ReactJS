@@ -11,6 +11,9 @@
 # production
 /build
 
+/props_shoping.js
+ src/props_shoping.js
+
 # misc
 .DS_Store
 .env.local
